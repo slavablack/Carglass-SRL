@@ -5,7 +5,7 @@ function Adresse() {
     <div>
       <div>Adresa: mun. Chisinau, str. Vl. Korolenko 3/2</div>
 
-      <div>Telefon:0123456789</div>
+      <div>Telefon:012g3456789</div>
     </div>
   );
 }

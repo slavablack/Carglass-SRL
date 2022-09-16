@@ -1,6 +1,9 @@
 .App {
   text-align: center;
   background-color: aqua;
+
+  .main-div {
+  }
   h1,
   .logic {
     color: black;
@@ -24,4 +27,24 @@
     width: 300px;
     height: 150px;
   }
+}
+.sidebar {
+  height: auto;
+  width: 20%;
+  color: aliceblue;
+  background-color: black;
+}
+.oferta {
+  font-size: 20px;
+  font-weight: normal;
+}
+.hold {
+  background-color: 4px solid black;
+  border: 2rem solid black;
+  height: 300px;
+  width: 300px;
+}
+.cards-img:hover {
+  font-size: 150%;
+  cursor: grab;
 }
